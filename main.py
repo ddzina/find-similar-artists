@@ -4,7 +4,7 @@ from funcs import get_similar_artists, get_rating_dict
 if __name__ == '__main__':
     df = pd.read_csv('lastfm_user_scrobbles.csv')
     names_df = pd.read_csv('lastfm_artist_list.csv')
-
+    
     user_rating = get_rating_dict()
 
     flag = True
