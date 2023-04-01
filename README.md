@@ -4,7 +4,7 @@
 
 ### Клонирование репозитория
 
-Клонируйте репозиторий в удобную папку:
+Клонируйте репозиторий в удобную папку и перейдите в нее:
 
 ```
 git clone https://github.com/ddzina/find-similar-artists.git
@@ -30,7 +30,7 @@ conda install pip
 Создайте и активируйте виртуальное окружение:
 
 ```
-pythom -m venv name
+python -m venv name
 source name/bin/activate (Linux)
 venv\Scripts\activate.bat (Windows)
 ```
@@ -46,7 +46,7 @@ pip install -r requirements.txt
 Запустите приложение:
 
 ```
-python <path to project folder>/main.py
+python main.py
 ```
 
 # Описание проделанной работы:
