@@ -9,6 +9,7 @@
 ```
 git clone https://github.com/ddzina/find-similar-artists.git
 ```
+## Создайте окружение anaconda или venv:
 
 ### Anaconda environment
 
