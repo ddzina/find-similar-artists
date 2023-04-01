@@ -9,9 +9,9 @@
 ```
 git clone https://github.com/ddzina/find-similar-artists.git
 ```
-## Создайте окружение anaconda или venv:
+### Создайте окружение anaconda или venv:
 
-### Anaconda environment
+#### Anaconda environment
 
 Создайте и активируйте виртуальное окружение:
 
@@ -26,7 +26,7 @@ conda activate name
 conda install pip
 ```
 
-### Venv
+#### Venv
 
 Создайте и активируйте виртуальное окружение:
 
